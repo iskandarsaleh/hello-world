@@ -1,4 +1,4 @@
 # hello-world
 just another repository
 
-TEst branch readme-edits
+Test branch readme-edits
